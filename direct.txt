@@ -13,6 +13,10 @@ DOMAIN-SUFFIX,elsevierusercontent.com,DIRECT
 DOMAIN-SUFFIX,springer.com,DIRECT
 DOMAIN-SUFFIX,springernature.com,DIRECT
 
+
+DOMAIN-SUFFIX,immersivetranslate.com,DIRECT
+
+
 DOMAIN-SUFFIX,wiley.com,DIRECT
 DOMAIN-SUFFIX,acs.org,DIRECT
 DOMAIN-SUFFIX,rsc.org,DIRECT
